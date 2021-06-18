@@ -26,7 +26,7 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "tgVCSets"
+      "value": "tibotsupport"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
@@ -45,12 +45,12 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": " https://telegra.ph/file/e8ef50ce40d228a5fde80.png"
+      "value": " https://telegra.ph/file/779fdb99fc5603a17677e.png"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "ZauteKm"
+      "value": "tejasbots"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
