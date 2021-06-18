@@ -1,0 +1,11 @@
+---
+application:
+  name: "tivcmusicbot"
+  project: "Ti vc musicbot"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-tivcmusicbot"
+  routes:
+  - application_name: "tivcmusicbot"
+    paths:
+    - "/*"
